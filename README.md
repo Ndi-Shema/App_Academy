@@ -1,11 +1,12 @@
+<<<<<<< HEAD
 # Refactoring CSS Practice
 
 In this practice, you will be refactoring CSS written by another developer to
-meet new requirements.  This is a common task on the job.  Designs change,
+meet new requirements. This is a common task on the job. Designs change,
 themes get refreshed, or a design ends up just not looking quite right.
 
 Your main focus is to practice changing someone else's code while you familiarize
-yourself with the vast typography, sizing, text styling and use of background
+yourself with the vast typography, sizing, text styling, and use of background
 images that CSS has to offer.
 
 Once you have downloaded the starter, open the __index.html__ file in your
@@ -36,3 +37,12 @@ Change the footer:
 1. Unbold the words.
 2. Change the font-size to 25px
 3. Change the background-color to pink
+
+=======
+# github-cloning-practice
+
+🎉🎉🎉Success!!!🎉🎉🎉
+
+If you are reading this in VSCode, you have successfully cloned this repository!
+
+>>>>>>> 37f45a3e72b4191927969a26d4dd15ceedd7aad7
